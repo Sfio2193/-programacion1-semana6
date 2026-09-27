@@ -1,0 +1,7 @@
+Ana - 8 - Aprobado
+Juan - 5 - Desaprobado
+Pedro - 9 - Aprobado
+Lucía - 7 - Aprobado
+Sofía - 10 - Aprobado
+Marcos - 6 - Aprobado
+Promedio general: 7.5
